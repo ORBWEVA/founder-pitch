@@ -2,6 +2,6 @@
   "name": "founder-pitch",
   "owner": {"name": "ORBWEVA"},
   "plugins": [
-    {"name":"pitch","source":{"source":"github","repo":"ORBWEVA/founder-pitch"},"description":"Pitch deck and fundraising skill for founders. Use when user wants to create a pitch deck, prepare for investor meetings, write investor outreach emails, model financials for fundraising, or handle VC","version":"1.0.0","author":{"name":"ORBWEVA"}}
+    {"name":"pitch","source":{"source":"url","url":"https://github.com/ORBWEVA/founder-pitch.git"},"description":"Pitch deck and fundraising skill for founders. Use when user wants to create a pitch deck, prepare for investor meetings, write investor outreach emails, model financials for fundraising, or handle VC","version":"1.0.0","author":{"name":"ORBWEVA"}}
   ]
 }
