@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Pitch deck and fundraising skill for Claude Code. Structure your deck, model financials, write investor emails, handle VC objections.",
   "author": "ORBWEVA",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ORBWEVA/founder-pitch.git"
